@@ -33,7 +33,7 @@ Component.Graph({
     centerForce: 0.3, // how much force to use when trying to center the nodes
     linkDistance: 30, // how long should the links be by default?
     fontSize: 0.6, // what size should the node labels be?
-    opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+    opacityScale: 0, // how quickly do we fade out the labels when zooming out?
     removeTags: [], // what tags to remove from the graph
     showTags: true, // whether to show tags in the graph
     enableRadial: false, // whether to constrain the graph, similar to Obsidian
@@ -47,7 +47,7 @@ Component.Graph({
     centerForce: 0.3,
     linkDistance: 30,
     fontSize: 0.6,
-    opacityScale: 1,
+    opacityScale: 0,
     removeTags: [], // what tags to remove from the graph
     showTags: true, // whether to show tags in the graph
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
