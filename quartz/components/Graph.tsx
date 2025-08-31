@@ -37,9 +37,9 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.9,
     opacityScale: 1,
-    showTags: false,
+    showTags: true,
     removeTags: [],
-    focusOnHover: true,
+    focusOnHover: false,
     enableRadial: false,
   },
   globalGraph: {
