@@ -39,7 +39,7 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: false,
     removeTags: [],
-    focusOnHover: false,
+    focusOnHover: true,
     enableRadial: false,
   },
   globalGraph: {
@@ -52,7 +52,7 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.9,
     opacityScale: 1,
-    showTags: false,
+    showTags: true,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
