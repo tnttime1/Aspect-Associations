@@ -1,3 +1,10 @@
+---
+---
+---
+title: Example Title
+draft: false
+tags: - example-tag
+---
 DEFINITIONS
 noun
 1. the air inhaled and exhaled in respiration.
