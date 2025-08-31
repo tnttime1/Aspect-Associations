@@ -2,6 +2,7 @@
 title: AspectWiki
 ---
 
+# AspectWiki
 Obsidian wiki resource that aims to map out aspect associations
 
 Library of words that connect to aspects and how they connect
