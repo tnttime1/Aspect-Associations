@@ -1,9 +1,9 @@
 ---
 ---
 ---
-title: Example Title
-draft: false
-tags: - example-tag
+title: Breath
+tags:
+- #breath
 ---
 DEFINITIONS
 noun
@@ -40,8 +40,6 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://www.dictionary.com/browse/breath
 https://idioms.thefreedictionary.com/breath
-
-#breath
 
 [^1]: breath of fresh air: Refreshingly new, different, and pleasing.
 
