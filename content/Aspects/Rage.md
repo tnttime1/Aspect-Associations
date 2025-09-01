@@ -32,7 +32,7 @@ INTERNAL LINKS
 [[passion]] noun 3,4 & idiom 2
 [[rebellion]] idiom 1
 [[madness]] noun1,8 & idiom 4
-[[celebrate]] noun 8
+[[party]] noun 8
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/rage
