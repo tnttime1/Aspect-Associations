@@ -44,6 +44,7 @@ EXTERNAL LINKS
 https://www.dictionary.com/browse/mind
 https://idioms.thefreedictionary.com/mind
 https://en.wiktionary.org/wiki/mind
+
 #mind
 
 [^1]: To change one's original opinion, choice, or plan.

@@ -52,6 +52,7 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://idioms.thefreedictionary.com/light
 https://www.dictionary.com/browse/light
+
 #light
 
 [^1]: A sudden ingenious or inspired idea or insight.

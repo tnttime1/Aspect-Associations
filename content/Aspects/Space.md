@@ -31,6 +31,7 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://www.dictionary.com/browse/space
 https://idioms.thefreedictionary.com/space
+
 #space
 
 [^1]: be lost in space/ space out: To be completely confused about, unaware of, or out of touch with reality.

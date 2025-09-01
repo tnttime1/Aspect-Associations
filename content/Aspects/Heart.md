@@ -41,6 +41,7 @@ EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
 https://www.merriam-webster.com/thesaurus/heart
 https://idioms.thefreedictionary.com/heart
+
 #heart
 
 [^1]: to gather or lose courage or determination

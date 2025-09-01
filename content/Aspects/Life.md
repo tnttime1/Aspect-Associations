@@ -36,7 +36,6 @@ EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/life
 https://www.merriam-webster.com/dictionary/life
 
-
 #life
 
 [^1]: Something unpleasant that must be accepted because it cannot be changed. unpleasantness is a part of living
