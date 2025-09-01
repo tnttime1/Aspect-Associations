@@ -15,7 +15,6 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://idioms.thefreedictionary.com/plight
 
-
 #doom 
 
 [^1]: To bind oneself to another person in marriage
