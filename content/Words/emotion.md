@@ -1,5 +1,5 @@
 [[anger]]
-[[Sadness]]
+[[sadness]]
 [[cheer]]
 [[excitement]]
 

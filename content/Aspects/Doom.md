@@ -20,13 +20,13 @@ IDIOMS
 INTERNAL LINKS
 [[death]] noun 1,2 & verb 2
 [[destruction]] noun 1
-[[Plight]] noun 1,4 & idiom 1,3
+[[plight]] noun 1,4 & idiom 1,3
 [[calamity]] noun 1,4 & idiom 2
-[[Failure]] verb 2
-[[Pessimism]] idiom 1
+[[failure]] verb 2
+[[pessimism]] idiom 1
 [[Futility]] idiom 1 & noun 1
 [[Fate]] verb 1 & noun 1
-[[Judgement]] noun 3,5
+[[judgement]] noun 3,5
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/doom

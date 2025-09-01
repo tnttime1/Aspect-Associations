@@ -7,7 +7,7 @@ IDIOMS
 [^1]Plight (one's) troth
 
 INTERNAL LINKS
-[[Sadness]] noun 1
+[[sadness]] noun 1
 [[suffering]] noun 1
 
 
