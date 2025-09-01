@@ -29,9 +29,9 @@ Component.Graph({
     zoom: true, // whether to allow zooming in and out
     depth: 1, // how many hops of notes to display
     scale: 1.1, // default view scale
-    repelForce: 0.0, // how much nodes should repel each other
-    centerForce: 0.0, // how much force to use when trying to center the nodes
-    linkDistance: 0, // how long should the links be by default?
+    repelForce: 0.1, // how much nodes should repel each other
+    centerForce: 0.1, // how much force to use when trying to center the nodes
+    linkDistance: 1, // how long should the links be by default?
     fontSize: 0.6, // what size should the node labels be?
     opacityScale: 0, // how quickly do we fade out the labels when zooming out?
     removeTags: [], // what tags to remove from the graph
@@ -43,9 +43,9 @@ Component.Graph({
     zoom: true,
     depth: -1,
     scale: 0.9,
-    repelForce: 0.0,
-    centerForce: 0.0,
-    linkDistance: 0,
+    repelForce: 0.1,
+    centerForce: 0.1,
+    linkDistance: 1,
     fontSize: 0.6,
     opacityScale: 0,
     removeTags: [], // what tags to remove from the graph
